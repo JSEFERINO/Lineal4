@@ -1,21 +1,45 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/1ro_2C-Algebra-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Algebra - FAMAF - Computacion
 
-> Cuatrimestre
+> 2C
 
-Necesita tener aprobada:
+## Correlativas para **cursar**
 
-- 1
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Curso de Nivelacion | Aprobada |
+| Matematica Discreta I   | Regularizada     |
 
-Es correlativa de:
+## Correlativas para **aprobar**
 
-- 1
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Curso de Nivelacion | Aprobada     |
+| Matematica Discreta I   | Aprobada     |
+
+## Es correlativa de:
+
+- Analisis Numerico
 
 ## Clonar el repositorio
 
+> https
+
 ```bash
-git clone <repo-url>
+git clone --recurse-submodules https://github.com/FAMAF-resources/1ro_2C-Algebra-FAMAF.git
+```
+
+> ssh
+
+```bash
+git clone --recurse-submodules git@github.com:FAMAF-resources/1ro_2C-Algebra-FAMAF.git
+```
+
+## Update
+
+```bash
+git pull && git submodule update --init --recursive
 ```
 
 # Contribuciones
@@ -23,6 +47,6 @@ git clone <repo-url>
 Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) comunicarse con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Template-repository"/>
+<a href="https://github.com/FAMAF-resources/1ro_2C-Algebra-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/1ro_2C-Algebra-FAMAF" height="50"/>
 </a>
