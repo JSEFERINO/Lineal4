@@ -24,13 +24,13 @@
 
 ## Clonar el repositorio
 
-> https
+**https**
 
 ```bash
 git clone --recurse-submodules https://github.com/FAMAF-resources/1ro_2C-Algebra-FAMAF.git
 ```
 
-> ssh
+**ssh (recomendado)**
 
 ```bash
 git clone --recurse-submodules git@github.com:FAMAF-resources/1ro_2C-Algebra-FAMAF.git
@@ -42,9 +42,17 @@ git clone --recurse-submodules git@github.com:FAMAF-resources/1ro_2C-Algebra-FAM
 git pull && git submodule update --init --recursive
 ```
 
-# Contribuciones
+# Aula virtual
 
-Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) comunicarse con los administradores.
+- [**2023**](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=165&section=0)
+
+# ¿Cómo contribuir?
+
+Este es un proyecto con fines de facilitar el acceso al material para estudio.
+
+Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion de este repositoro.
+
+Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/1ro_2C-Algebra-FAMAF/graphs/contributors">
